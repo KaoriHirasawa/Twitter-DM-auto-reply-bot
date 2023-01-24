@@ -136,12 +136,7 @@ function sendDM(_, userID, text){
     for (record = 0; record < array.length; record++){
       const results = array[record];
       var userID = results["senderID"];
-      if (isFinite(results["keys"])){
-        var text = 'お問い合わせありがとうございます。検索結果はこちらです：\n' + results["send_message"];
-      }
-      else{
-        var text = results["send_message"];
-      }
+      var text = results["send_message"];
       
       try{
       
