@@ -13,3 +13,6 @@ This is a Google Apps Script code that searches whether the content of a direct 
 
 ### Author
 https://twitter.com/MokonaSato
+
+### License
+The source code is licensed MIT, see LICENSE.
