@@ -1,5 +1,4 @@
 # Twitter-DM-auto-reply-bot
-# The largest heading
 
 ### Overview
 This is a Google Apps Script code that searches whether the content of a direct message that came to your Twitter account exists in the correspondence table of messages and responses, and automatically replies to the message. The correspondence table is created in a Google Spreadsheet.
