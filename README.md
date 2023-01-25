@@ -9,7 +9,7 @@ This is a Google Apps Script code that searches whether the content of a direct 
 - TwitterWebService version 2
 
 ### Reference
-
+[GASとGoogleスプレッドシートを使ってTwitterのDM自動返信botを作成する - Qiita](https://qiita.com/hetaheta0317/items/a0fa8955370e4e3b817b)
 
 ### Author
 https://twitter.com/MokonaSato
